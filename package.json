@@ -1,7 +1,7 @@
 {
   "name": "netflix",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://github.com/aman1272/Netflix",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
